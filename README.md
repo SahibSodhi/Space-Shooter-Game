@@ -28,3 +28,16 @@ run "python Game10.py"
   - player explosion
 - 3 lives per game
 - Fun to play :)
+
+## Controls
+
+|              | Button              |
+|--------------|---------------------|
+| Move Left    | <kbd>left</kbd>     |
+| Move right   | <kbd>right</kbd>    |
+| Fire bullets | <kbd>spacebar</kbd> |
+| Quit game    | <kbd>Esc</kbd>      |
+
+
+## Game Display
+![giphy](demonstration/running.gif)
