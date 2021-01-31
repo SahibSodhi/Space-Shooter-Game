@@ -39,5 +39,3 @@ run "python Game10.py"
 | Quit game    | <kbd>Esc</kbd>      |
 
 
-# Game Display
-![giphy](demonstration/running.gif)
